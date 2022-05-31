@@ -49,7 +49,8 @@ public class MenuChoice extends javax.swing.JFrame {
         jLabel4.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabel4MouseClicked(evt);
-            }        });
+            }
+        });
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(310, 340, 200, 70));
 
         jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/Vector_1.png"))); // NOI18N
